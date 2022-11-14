@@ -1,5 +1,12 @@
 ### Hello, world 👋
 
+Portfolio 
+
+Resume
+https://breakboyted.notion.site/3318bfd5221541ae84b2470d6bc158d5
+
+
+
 <!--
 **teddy5518/teddy5518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
